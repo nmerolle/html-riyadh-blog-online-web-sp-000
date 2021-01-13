@@ -1,10 +1,8 @@
-HEADING
 
-`Welcome to Riyadh`
+<div class="wrapper">
 
-SUB HEAD
-
-`Where A Traditional Past Meets A Modern Future.`
+<h1>Welcome to Riyadh</h1>
+<h2>Where A Traditional Past Meets A Modern Future.</h2>
 
 IMAGE 1 FILE
 
